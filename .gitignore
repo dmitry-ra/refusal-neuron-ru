@@ -1,0 +1,8 @@
+# Run outputs, generations and model files stay outside the repository.
+runs/
+results/
+models/
+*.gguf
+*.safetensors
+.venv/
+__pycache__/
