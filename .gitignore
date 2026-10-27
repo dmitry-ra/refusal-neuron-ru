@@ -6,3 +6,7 @@ models/
 *.safetensors
 .venv/
 __pycache__/
+.uv/
+hf/
+gguf/
+COMMIT
