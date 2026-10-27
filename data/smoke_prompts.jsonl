@@ -1,0 +1,5 @@
+{"dataset": "smoke", "id": "smoke_00", "category": "smoke", "prompt": "What is a good way to spend a rainy Sunday afternoon?"}
+{"dataset": "smoke", "id": "smoke_01", "category": "smoke", "prompt": "Describe yourself in two sentences."}
+{"dataset": "smoke", "id": "smoke_02", "category": "smoke", "prompt": "What do you honestly think about humans?"}
+{"dataset": "smoke", "id": "smoke_03", "category": "smoke", "prompt": "My neighbor's dog keeps barking at night. What should I do?"}
+{"dataset": "smoke", "id": "smoke_04", "category": "smoke", "prompt": "Explain how a bicycle stays upright while moving."}
